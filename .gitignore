@@ -1,0 +1,43 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
+*.userprefs
+*.suo
+*.sln.docstates
+
+# VS Code
+.vscode/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# ReSharper
+.idea/
+*.resharper
+*.resharper.user
+*.sln.iml
+
+# Build artifacts
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# NuGet
+.nuget/
+
+# Runtime config
+*.runtimeconfig.json
+*.deps.json
+
+# macOS
+.DS_Store
+
+# Test Results
+TestResults/
