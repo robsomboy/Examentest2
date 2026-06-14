@@ -1,0 +1,14 @@
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\bin\Debug\net9.0\Examentest.exe
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\bin\Debug\net9.0\Examentest.deps.json
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\bin\Debug\net9.0\Examentest.runtimeconfig.json
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\bin\Debug\net9.0\Examentest.dll
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\bin\Debug\net9.0\Examentest.pdb
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\Examentest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\Examentest.AssemblyInfoInputs.cache
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\Examentest.AssemblyInfo.cs
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\Examentest.csproj.CoreCompileInputs.cache
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\Examentest.dll
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\refint\Examentest.dll
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\Examentest.pdb
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\Examentest.genruntimeconfig.cache
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\ref\Examentest.dll
