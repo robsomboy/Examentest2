@@ -12,3 +12,4 @@ C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\refint\Examen
 C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\Examentest.pdb
 C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\Examentest.genruntimeconfig.cache
 C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\ref\Examentest.dll
+C:\Users\RobinW903\Desktop\Examentest2\Examentest\obj\Debug\net9.0\Examentest.sourcelink.json
